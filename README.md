@@ -1,11 +1,11 @@
 # Toxicity-Prediction
 What is toxicity and soureces of it:
-  Toxicity – The adverse effects that a chemical may produce.
-  Source – Drugs, Pesticides, Natural toxins, Pollutants, Hazardous chemicals etc.,
+      Toxicity – The adverse effects that a chemical may produce.
+      Source – Drugs, Pesticides, Natural toxins, Pollutants, Hazardous chemicals etc.,
 
 Objective:
-  To build a robust model using Machine Learning for toxicity prediction.
-  Identify the fragments common to both toxic and non-toxic compounds.
+      To build a robust model using Machine Learning for toxicity prediction.
+      Identify the fragments common to both toxic and non-toxic compounds.
   
 Dataset: 
   Dataset were collected from databases like KEGG-Drug, Drug Bank, TOXNET, T3DB, FDA. 
